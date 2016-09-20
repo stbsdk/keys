@@ -1,9 +1,9 @@
 Remote control
 ==============
 
-[![Build Status](https://img.shields.io/travis/stbsdk/rc.svg?style=flat-square)](https://travis-ci.org/stbsdk/rc)
-[![NPM version](https://img.shields.io/npm/v/stb-rc.svg?style=flat-square)](https://www.npmjs.com/package/stb-rc)
-[![Dependencies Status](https://img.shields.io/david/stbsdk/rc.svg?style=flat-square)](https://david-dm.org/stbsdk/rc)
+[![Build Status](https://img.shields.io/travis/stbsdk/keys.svg?style=flat-square)](https://travis-ci.org/stbsdk/keys)
+[![NPM version](https://img.shields.io/npm/v/stb-keys.svg?style=flat-square)](https://www.npmjs.com/package/stb-keys)
+[![Dependencies Status](https://img.shields.io/david/stbsdk/keys.svg?style=flat-square)](https://david-dm.org/stbsdk/keys)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
@@ -15,7 +15,7 @@ Key code is its default key code from event plus 1000 in case shift key pressed 
 ## Installation ##
 
 ```bash
-npm install stb-rc
+npm install stb-keys
 ```
 
 
@@ -24,12 +24,12 @@ npm install stb-rc
 Add to the scope:
 
 ```js
-var rc = require('stb-rc');
+var keys = require('stb-keys');
 ```
 
 In some event handler:
 ```js
-if ( rc.getCode(event) === rc.codes.ok ) {
+if ( event.code === keys.ok ) {
     ...
 }
 ```
@@ -37,10 +37,10 @@ if ( rc.getCode(event) === rc.codes.ok ) {
 
 ## Contribution ##
 
-If you have any problem or suggestion please open an issue [here](https://github.com/stbsdk/rc/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/stbsdk/keys/issues).
 Pull requests are welcomed with respect to the [JavaScript Code Style](https://github.com/DarkPark/jscs).
 
 
 ## License ##
 
-`stb-rc` is released under the [MIT License](license.md).
+`stb-keys` is released under the [MIT License](license.md).
