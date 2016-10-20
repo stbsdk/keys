@@ -1,9 +1,10 @@
 Remote control
 ==============
 
-[![Build Status](https://img.shields.io/travis/stbsdk/keys.svg?style=flat-square)](https://travis-ci.org/stbsdk/keys)
-[![NPM version](https://img.shields.io/npm/v/stb-keys.svg?style=flat-square)](https://www.npmjs.com/package/stb-keys)
-[![Dependencies Status](https://img.shields.io/david/stbsdk/keys.svg?style=flat-square)](https://david-dm.org/stbsdk/keys)
+[![build status](https://img.shields.io/travis/stbsdk/keys.svg?style=flat-square)](https://travis-ci.org/stbsdk/keys)
+[![npm version](https://img.shields.io/npm/v/stb-keys.svg?style=flat-square)](https://www.npmjs.com/package/stb-keys)
+[![dependencies status](https://img.shields.io/david/stbsdk/keys.svg?style=flat-square)](https://david-dm.org/stbsdk/keys)
+[![devDependencies status](https://img.shields.io/david/dev/stbsdk/keys.svg?style=flat-square)](https://david-dm.org/stbsdk/keys?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
