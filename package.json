@@ -1,6 +1,6 @@
 {
     "name": "stb-keys",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "description": "Keyboard and remote control keys codes.",
     "author": {
         "name": "Stanislav Kalashnik",
@@ -26,6 +26,7 @@
         "stb",
         "stbsdk",
         "framework",
+        "keyboard",
         "remote",
         "control",
         "keys",
