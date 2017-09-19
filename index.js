@@ -50,6 +50,16 @@ keys.power        = 85  + 'a';       // Alt+U
 keys.record       = 87  + 'a';       // Alt+W
 keys.info         = 89  + 'a';       // Alt+Y
 keys.mute         = 192 + 'a';
+keys.digit0       = 48;
+keys.digit1       = 49;
+keys.digit2       = 50;
+keys.digit3       = 51;
+keys.digit4       = 52;
+keys.digit5       = 53;
+keys.digit6       = 54;
+keys.digit7       = 55;
+keys.digit8       = 56;
+keys.digit9       = 57;
 
 
 // public
